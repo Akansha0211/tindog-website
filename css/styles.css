@@ -8,4 +8,10 @@ h1{
     font-family: 'Montserrat-Black', sans-serif;
     font-size: 3rem;
     line-height: 1.5;
+    color: floralwhite;
+    font-weight: bolder;
+}
+.mainimg{
+    -ms-transform:rotate(20deg);
+    transform: rotate(20deg);
 }

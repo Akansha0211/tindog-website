@@ -15,10 +15,12 @@ h1{
     color: floralwhite;
     font-weight: bolder;
 }
-.mainimg{
+
+/* .mainimg{
     -ms-transform:rotate(20deg);
     transform: rotate(20deg);
-}
+} */
+
 /* Navigation bar */
 .navbar{
     padding:0 0 4.5rem;
@@ -40,3 +42,10 @@ h1{
 .download-button{
     margin: 5% 3% 5% 0;
 }
+
+/* Title Image */
+.mainimg{
+    width: 60%;
+    transform: rotate(25deg);
+}
+

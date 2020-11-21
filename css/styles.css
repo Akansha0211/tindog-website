@@ -49,3 +49,9 @@ h1{
     transform: rotate(25deg);
 }
 
+/* Features Section*/
+#features{
+    padding: 7% 15%;
+}
+
+

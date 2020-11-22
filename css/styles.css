@@ -127,17 +127,28 @@ p{
     font-family: 'Montserrat';
     font-weight: bolder;
 }
-button{
-    margin: 3% 2%;
+.cta-heading{
+    /* font-family: "Montserrat-Black"; */
+    font-weight: bolder;
+    font-size: 3.5rem;
+    line-height: 1.5;
 }
+button{
+    /* margin: 3% 2%; */
+    margin: 5% 3% 5% 0;
+}
+
+/* Footer Section */
 #footer{
     text-align: center;
-    padding: 10% 0;
+    padding: 7% 15%;
+    background-color: #fff;
 }
 .ico{
     color: #000;
-    margin: 0.5rem;
-    margin-bottom: 1rem;
+    /* margin: 0.5rem;
+    margin-bottom: 1rem; */
+    margin: 20px 10px;
 }
 
 @media (max-width:1028px){

@@ -105,5 +105,9 @@ p{
 
 /* Pricing Section */
 #pricing{
-    
+    padding: 100px;
+    text-align: center;
+}
+.pricing-col{
+    padding: 3% 2%; 
 }

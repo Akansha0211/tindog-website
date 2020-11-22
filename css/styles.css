@@ -118,8 +118,25 @@ p{
 .pricing-col{
     padding: 3% 2%; 
 }
+/* Call To Action Section */
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 7% 15%;
+    color: #fff;
+    font-family: 'Montserrat';
+    font-weight: bolder;
+}
+button{
+    margin: 3% 2%;
+}
+
 @media (max-width:1028px){
     .mainimg{
         position: static;
+        transform: rotate(0);
+    }
+    #title{
+        text-align: center;
     }
 }

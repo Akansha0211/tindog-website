@@ -130,6 +130,15 @@ p{
 button{
     margin: 3% 2%;
 }
+#footer{
+    text-align: center;
+    padding: 10% 0;
+}
+.ico{
+    color: #000;
+    margin: 0.5rem;
+    margin-bottom: 1rem;
+}
 
 @media (max-width:1028px){
     .mainimg{

@@ -118,3 +118,8 @@ p{
 .pricing-col{
     padding: 3% 2%; 
 }
+@media (max-width:1028px){
+    .mainimg{
+        position: static;
+    }
+}
